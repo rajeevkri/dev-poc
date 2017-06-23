@@ -1,0 +1,5 @@
+*.prefs
+*.class
+target
+*.project
+dropwizard-poc/DropWizardPOC/.classpath
